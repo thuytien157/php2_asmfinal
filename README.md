@@ -7,10 +7,15 @@ Mật khẩu: Thuytien965002@
 
 
 Demo thanh toán VNPAY
+
 Ngân hàng: NCB
+
 Số thẻ: 9704198526191432198
+
 Tên chủ thẻ:NGUYEN VAN A
+
 Ngày phát hành:07/15
+
 Mật khẩu OTP:123456
 
 
